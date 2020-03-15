@@ -1,0 +1,5 @@
+[warn] org.eclipse.core.commands-3.9.600-sources.jar no longer exists at /Users/juanmoraza/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/platform/org.eclipse.core.commands/3.9.600/org.eclipse.core.commands-3.9.600-sources.jar
+[debug] "not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/Users/moraza/Desktop/UIC/CS%20474/Homework/juan_moraza_hw1/"), "juan_moraza_hw1")...
+[debug] Done updating ProjectRef(uri("file:/Users/moraza/Desktop/UIC/CS%20474/Homework/juan_moraza_hw1/"), "juan_moraza_hw1")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
